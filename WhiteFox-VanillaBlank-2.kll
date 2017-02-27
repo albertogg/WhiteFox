@@ -9,6 +9,7 @@ Generator = "KIICONF 0.2";
 
 U"1" : CONS"BRIGHTNESSDECREMENT";
 U"2" : CONS"BRIGHTNESSINCREMENT";
+U"4" : ledControl( 5, 0, 0 );
 U"5" : ledControl( 3, 15, 0 );
 U"6" : ledControl( 4, 15, 0 );
 U"7" : CONS"SCANPREVIOUSTRACK";

@@ -100,6 +100,10 @@
                 "1": {
                     "key": "F4",
                     "label": "F4"
+                },
+                "2": {
+                    "key": "#:ledControl( 5, 0, 0 )",
+                    "label": "LED OFF"
                 }
             }
         },
